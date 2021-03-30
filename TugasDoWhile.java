@@ -24,7 +24,7 @@ public class TugasDoWhile {
             System.out.print("  " + i);
         i= i * 2;
         
-        // membuat batas dari keliapatan
+        // membuat batas dari perkalian 2
         }
         while (i <=100);
          System.out.println("");

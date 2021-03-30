@@ -16,10 +16,10 @@ public class TugasDoWhile {
         int i = 1;
         // membuat design awal
         System.out.println("         Do_While          ");
-        System.out.println(" Bilangan kelipatan 2 (1-100)  ");
+        System.out.println(" Bilangan perkalian 2 (1-100)  ");
         System.out.println(" ============================  ");
         
-        // membuat kelipatan 2 nya
+        // membuat perkalian 2 
         do{
             System.out.print("  " + i);
         i= i * 2;

@@ -24,7 +24,7 @@ public class kelipatan2 {
             System.out.print("  " + i);
         i += 2;
         
-        // membuat batas dari keliapatan
+        // membuat batas dari kelipatan 2
         }
         while (i <=100);
          System.out.println("");
